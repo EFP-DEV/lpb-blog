@@ -101,3 +101,16 @@ h1, h2, h3, h4, h5, h6 {
 .blog-footer p:last-child {
   margin-bottom: 0;
 }
+
+
+.system a{
+  color:#FF00FF;
+}
+
+.scripting a{
+  color:yellow;
+}
+
+.web a{
+  color:#00FF00;
+}

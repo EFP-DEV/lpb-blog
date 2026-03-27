@@ -1,5 +1,10 @@
 <?php include 'head.html';?>
-  <main class="container">
 
-  </main>
+<main class="container">
+<?php 
+$page = $_GET["categorie"];
+include $page . '.php';
+?>
+</main>
+
 <?php include 'foot.html';?>
