@@ -1,4 +1,4 @@
-<?php include 'head.html';?>
+<?php include 'top.html';?>
 
 <main class="container">
 <?php 
@@ -7,4 +7,4 @@ include $page . '.php';
 ?>
 </main>
 
-<?php include 'foot.html';?>
+<?php include 'bottom.html';?>
