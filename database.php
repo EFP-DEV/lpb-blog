@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db   = 'lareponse';
-$user = 'lareponse';
-$pass = 'changeme0';
+$db   = 'session13';
+$user = 'session13';
+$pass = '73u]o6U7DRybN/yV';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
